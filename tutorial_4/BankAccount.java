@@ -1,8 +1,5 @@
 package tutorial_4;
-
 import java.util.Scanner;
-
-
 public class BankAccount {
     // Instance variables
     String accountNumber;
